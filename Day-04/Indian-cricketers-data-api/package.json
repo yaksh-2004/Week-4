@@ -1,0 +1,14 @@
+{
+  "name": "indian-cricketers-data-api",
+  "version": "1.0.0",
+  "description": "It is an api to get indian cricketers stats of ODI & TEST format till 2021",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yaksh Parikh",
+  "license": "MIT",
+  "dependencies": {
+    "indian-cricketers-stats-api": "^1.0.0"
+  }
+}
